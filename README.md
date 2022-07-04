@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=busrahekim&label=Profile%20views&color=0e75b6&style=flat" alt="busrahekim" /> </p>
 
-- 🌱 I’m currently learning **MSSql Server**
+- 🌱 I’m currently learning **MSSql Server** & **C#**
 
 - 💬 Ask me about **Java, Flutter**
 
