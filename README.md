@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=busrahekim&label=Profile%20views&color=0e75b6&style=flat" alt="busrahekim" /> </p>
 
-- 🌱 I’m currently learning **ASP.NET MVC** & **C#**
-
-- 💬 Ask me about **Java, Flutter**
+- 🌱 I’m currently learning **ASP.NET MVC** & **Angular**
 
 - 📫 How to reach me **busra_hekim17@outlook.com**
 
