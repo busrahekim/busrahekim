@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Büşra Hekimoğlu</h1>
-<h3 align="center">A developer trying to improve herself in the frontend</h3>
-
+------------------------------------------------------------------------------
 - 🌱 Currently learning **Next.JS 14** & improving my skills in **Angular**
 
 - 📫 How to reach me **busrahekim17@gmail.com**
