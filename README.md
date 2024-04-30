@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------
-- 🌱 Currently learning **Next.JS 14** & improving my skills in **Angular**
+- 🌱 Currently learning **React Native**
 
 - 📫 How to reach me **busrahekim17@gmail.com**
 
