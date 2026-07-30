@@ -1,6 +1,4 @@
 ------------------------------------------------------------------------------
-- 🌱 Currently learning **React Native**
-
 - 📫 How to reach me **busrahekim17@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
