@@ -1,4 +1,4 @@
-# 💫 Professional Summary:
+# 👩‍💻 Professional Summary:
 Front-End Software Engineer with 4+ years of experience building enterprise-scale web applications using Angular, TypeScript, and modern JavaScript ecosystems.
 
 # 📫 How to reach me: busrahekim17@gmail.com
