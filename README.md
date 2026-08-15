@@ -35,3 +35,7 @@ Front-End Software Engineer with 4+ years of experience building enterprise-scal
 ![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logoColor=white)
 
 ![](https://komarev.com/ghpvc/?username=busrahekim)
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=busrahekim&theme=dark&hide_border=false)<br/>
